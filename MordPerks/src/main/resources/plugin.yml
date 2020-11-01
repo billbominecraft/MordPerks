@@ -1,0 +1,12 @@
+name: MordPerks
+version: ${project.version}
+main: me.billbominecraft.mordperks.MordPerks
+api-version: 1.15
+authors: [billbominecraft]
+description: Easy access to easily customizable rank items
+website: https://www.mordoniatm.com
+commands:
+  mordperks:
+    description: Use this command to access rank reward item vaults
+    usage: /mordperks <RankType>
+    aliases: 'mp'

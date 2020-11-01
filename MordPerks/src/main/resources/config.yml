@@ -1,0 +1,226 @@
+footman:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 5
+  thorns-level: 1
+
+squire:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 4
+  thorns-level: 2
+
+knight:
+  name: '&6Rank Item for Babies'
+  unbreakable: true
+  loreline1: 'This rank item is only for the babiest of babies.'
+  loreline2: 'You are now the babiest of babies.'
+  protection-level: 5
+  thorns-level: 2
+
+royal-guard1:
+  name: ' footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  knockback-level: 2
+  looting-level: 3
+  sharpness-level: 5
+
+royal-guard2:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  fireaspect-level: 3
+  looting-level: 3
+  sharpness-level: 5
+
+beserker1:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  knockback-level: 2
+  looting-level: 3
+  sharpness-level: 5
+
+beserker2:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  fireaspect-level: 3
+  looting-level: 3
+  sharpness-level: 5
+
+archer1:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  flame-level: 2
+  power-level: 6
+
+archer2:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  power-level: 6
+  punch-level: 2
+
+commander:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 6
+  thorns-level: 2
+
+mole:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  proj-protection-level: 4
+  protection-level: 4
+
+agent:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  strider-level: 2
+  featherfall-level: 2
+  protection-level: 4
+
+hussarsword:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  fire-level: 1
+  knockback-level: 2
+  sharpness-level: 5
+
+hussaraxe:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  fire-level: 2
+  knockback-level: 1
+  sharpness-level: 5
+
+hussarbow:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  flame-level: 1
+  power-level: 5
+  punch-level: 2
+
+cuirassierchest:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  fire-protection-level: 2
+  protection-level: 4
+  thorns-level: 1
+
+cuirassierpants:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  blast-protection-level: 2
+  protection-level: 4
+  thorns-level: 1
+
+nun-monk1:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 3
+
+nun-monk2:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 4
+
+nun-monk3:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 5
+
+nun-monk4:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 4
+
+fisherman:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  aqua-level: 4
+  respiration-level: 4
+
+angler:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  luck-level: 10
+  lure-level: 5
+
+hunter:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  protection-level: 5
+  thorns-level: 3
+
+ranger:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  flame-level: 2
+  power-level: 5
+
+miner1:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  efficiency-level: 5
+  fortune_level: 4
+
+miner2:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
+  efficiency-level: 5
+
+lord-lady:
+  name: 'footman'
+  unbreakable: true
+  loreline1: 'footman'
+  loreline2: 'footman'
